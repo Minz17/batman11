@@ -1,4 +1,2 @@
-https://dev.batman12.com/
-https://dev.batman11.com/
 https://api.batman11.com/
 https://api.batman11.info/
